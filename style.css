@@ -1,0 +1,79 @@
+.hop{
+    color: #7D7D7D;
+font-family: Playfair Display;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.header1{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top:  108px; 
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+
+.Morethan{
+    color: #626262
+    font-family: Playfair Display;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 32px;
+    margin-bottom: 40px;
+}
+
+.Loremipsum{
+    color: #626262
+    font-family: Playfair Display;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.box1{
+    width: 420px;
+    height: 646px;
+    top: 182px;
+    left: 148px;
+    margin-right: 65px;
+}
+.box2{
+    width: 420px;
+    height: 646px;
+    top: 182px; 
+    left: 148px; 
+}
+
+
+.boxing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer1{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.baton{
+    width: 165px;
+    height: 60px;
+    flex-shrink: 0;
+    color: #626262;
+font-family: Playfair Display;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
